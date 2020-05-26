@@ -1,7 +1,7 @@
 theme = "hugo-sugoi"
-baseURL = "https://example.com"
+baseURL = "https://infallible-hypatia-4a9881.netlify.app/"
 languageCode = "en-us"
-title = "Sugoi"
+title = "Be Informed 2020"
 summaryLength = 20
 paginate = 5
 # Google Analytics ID, Uncomment below line to enable
@@ -30,8 +30,3 @@ contact = "Send me a message and I will get back as soon as possible."
         pre = "<i class='fas fa-list'></i>"
         url     = "post"
         weight  = -2
-    [[menu.nav]]
-        name    = "contact"
-        pre = "<i class='fas fa-envelope'></i>"
-        url     = "contact"
-        weight  = -3
