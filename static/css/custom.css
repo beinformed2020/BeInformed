@@ -1,3 +1,18 @@
+body {
+    font-size: 1.5em;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    color: #222;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 2rem;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 300;
+}
+
+
 a {
   color: #111;
   text-decoration: none;
@@ -17,7 +32,7 @@ nav {
   margin: 0;
   padding: 0;
   display: block;
-  background: #222;
+  background: #0e0a39;
 }
 
 nav::after {
@@ -52,7 +67,7 @@ nav ul li>a::after {
 nav a {
   color: #fff;
   display: block;
-  font-size: 14px;
+  font-size: 24px;
   padding: 14px 12px;
   text-decoration: none;
   text-transform: uppercase;
@@ -260,7 +275,7 @@ nav ul li>a:only-child::after {
 }
 
 .hero {
-  background: #222;
+  background: #0e0a39;
   background-size: 100%;
   background-repeat: no-repeat;
   height: 100px;
