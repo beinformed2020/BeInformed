@@ -1,5 +1,5 @@
 theme = "hugo-sugoi"
-baseURL = "https://infallible-hypatia-4a9881.netlify.app/"
+baseURL = "https://beinformed2020.netlify.app/"
 languageCode = "en-us"
 title = "Be Informed 2020"
 summaryLength = 20
