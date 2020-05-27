@@ -4,7 +4,7 @@ date: 2020-05-27T15:14:05+01:00
 draft: false
 
 categories: ["5G"]
-icon: "fas fa-exclamation-triangle"
+icon: "fas fa-radiation-alt"
 ---
 
 **Insert Lead paragraph here.**
