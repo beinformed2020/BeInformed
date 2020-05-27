@@ -1,7 +1,7 @@
 ---
 title: "Test01 5G"
 date: 2020-05-27T15:04:25+01:00
-draft: true
+draft: false
 
 categories: ["Urgent","5G"]
 icon: "fas fa-exclamation-triangle"
