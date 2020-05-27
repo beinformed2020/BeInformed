@@ -4,7 +4,7 @@ date: 2020-05-27T15:14:05+01:00
 draft: false
 
 categories: ["5G"]
-icon: "fas fa-radiation-alt"
+icon: "fas fa-radiation"
 ---
 
 **Insert Lead paragraph here.**
