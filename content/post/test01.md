@@ -1,9 +1,9 @@
 ---
-title: "Test01"
+title: "Test01 5G"
 date: 2020-05-27T15:04:25+01:00
 draft: true
 
-categories: ["Urgent"]
+categories: ["Urgent","5G"]
 icon: "fas fa-exclamation-triangle"
 ---
 
@@ -11,4 +11,4 @@ icon: "fas fa-exclamation-triangle"
 
 ## New Cool Posts
 
-*Test new markdown page 01*
+*Test new markdown page 01, with categories "Urgent" and "5G"*
