@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-## Is the Cure worse than the Cause?
+# Is the Cure worse than the Cause?
 
 ![Cafe Closed](/post/ims/cafe_closed.jpg)
 
@@ -140,3 +140,65 @@ We fully encourage you to do your own research into all these issues and to this
 Once you have done your own research, having sorted the wheat from the chaff, please share that information courageously and responsibly because our future liberty and the world we create from here on in depends on it. A beautiful future awaits humanity if we stand together and are proactive in creating that change. 
 
 Knowledge Is Freedom.
+
+# Want to be part of the solution?
+
+## Educational resources
+
+After a collossal amount of research we’ve compiled a list of very informative educational videos that give clear and verified evidence to support the validity of the issues presented.
+
+## Links for you to Google search
+
+#### Intro
+
+Dr Vernon Coleman - “Silent Obedience will destroy us”
+
+#### Figures
+
+Dr Erickson & Del Bigtree Highwire ‘Censored Docs Double Down’ #CensoredDocs
+
+#### Lockdown Social Distancing
+
+Prof Dolores J. Cahill on Del Bigtree Highwire
+
+#### Vaccine
+
+Exclusive Interview: Robert F. Kennedy Jnr destroys Big Pharma, Fauchi and Pro-Vaccine Movement - Valuetainment
+
+#### Tracking & Surveillance
+
+“She is a model citizen, but she can’t hide in China’s ’social credit’ system”
+
+UK: Jeremy Corbyn’s brother among 19 arrested at London anti-lockdown protest rupt.ly/subscribe
+
+#### 5G
+
+5G The Trojan Horse
+
+Supporting the UK legal case with Michael Mansfield QC who is leading the legal team challenging the UK government over it’s failure to take notice of the health risks and public concern related to 5G. www.actionagainst5G.org
+
+#### Solutions
+
+The Mirror Project - Documentary Film - Coronavirus www.mp-22.com
+
+#### Additional Resources
+
+The UK Column News 18th May 2020: “Vaccines by the Autumn”
+
+Lord Sumption on the UK Lockdown BBC News 17 May 2020
+
+Check out: London Real, Brian Rose, Dr Rashid Butter, Dr Zak Bush, Dr Andrew Kaufman.
+
+*Disclaimer: We are an independent, non government, non religeous affiliated body of people who have come together to empower you with information.*
+
+#### This website;
+
+[Be Informed](https://www.beinformed.life)
+
+#### Being pro-active for positive change
+
+For further information on how you can easily become involved in peaceful pro-active lobbying, utilising legal methods to call for transparency and further independent investigation into the validity of these facts, please log on to the website below:
+
+[FREE Downloadable Leaflet](/post/ims/AVALON_RISING_4_PP_A4_to_A5_FOLD_BOOKLET_DOUBLE_SIDED_PRINT_READY.pdf)
+
+Available for printing and sharing widely.
