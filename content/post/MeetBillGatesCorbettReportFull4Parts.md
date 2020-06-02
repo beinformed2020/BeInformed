@@ -2,7 +2,7 @@
 title: "Meet Bill Gates - Corbett Report Full 4 Parts"
 date: 2020-06-02T17:10:48+01:00
 draft: false
-categories: []
+categories: ["Vaccines", "Bill Gates"]
 ---
 
 **Full 4 part series produced by James Corbett delving into Bill Gates and the Bill & Melinda Gates Foundation.  
