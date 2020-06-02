@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-## Quidque corpore
+## The Leaflet main content can go here
 
 Lorem markdownum verbis. Ipso et felices curvos, interit fulmina avellere sed
 utendum alte, illas; *sumusve huc* corpora. Formam cupit, imagine cur tulerunt
