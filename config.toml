@@ -9,7 +9,7 @@ category = "categories"
 
 [params]
 favicon = "images/favicon.png"
-herotitle = "Whatever intro/homepage-header text you want can go here ..."
+herotitle = "Latest news and information"
 
 [hero]
 
