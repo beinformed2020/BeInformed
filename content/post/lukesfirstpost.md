@@ -7,6 +7,10 @@ categories: []
 
 **Insert Lead paragraph here.**
 
-## New Cool Posts
+## Luke, you can simply edit this file for your first test
+
+**But for additional posts you must use Hugo to create them (as opposed to simply duplicating existing posts), otherwise you will lose the benefits of Hugo.**
+
+
 
 
