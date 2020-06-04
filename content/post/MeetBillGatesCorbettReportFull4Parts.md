@@ -1,7 +1,7 @@
 ---
 title: "Meet Bill Gates - Corbett Report Full 4 Parts"
 date: 2020-06-02T17:10:48+01:00
-draft: false
+draft: true
 categories: ["Vaccines", "Bill Gates"]
 ---
 

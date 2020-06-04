@@ -1,15 +1,15 @@
 ---
-title: "Lukesfirstpost"
+title: "Blog coming soon. Please see ABOUT page."
 date: 2020-06-03T13:18:11+01:00
 draft: false
 categories: []
 ---
 
-**Insert Lead paragraph here.**
+**The ABOUT page details important information.**
 
-## Luke, you can simply edit this file for your first post
+## Our blog will deliver further information regarding COVID, DigitalID, 5G, AI and related subjects
 
-**But for additional posts you must use Hugo to create them (as opposed to simply duplicating existing posts), otherwise you will lose the benefits of Hugo.**
+**Coming soon!!**
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Sample Text Post"
 date: 2020-06-03T14:10:28+01:00
-draft: false
+draft: true
 categories: []
 ---
 

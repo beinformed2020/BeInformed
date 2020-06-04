@@ -1,7 +1,7 @@
 ---
 title: "How Many People Die Each Day"
 date: 2020-06-02T17:20:54+01:00
-draft: false
+draft: true
 categories: ["info graphics"]
 ---
 
