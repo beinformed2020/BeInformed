@@ -147,7 +147,7 @@ Knowledge Is Freedom.
 
 After a collossal amount of research we’ve compiled a list of very informative educational videos that give clear and verified evidence to support the validity of the issues presented.
 
-## Links for you to Google search
+## Links for you to search
 
 #### Intro
 
