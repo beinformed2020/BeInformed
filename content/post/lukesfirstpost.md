@@ -7,7 +7,7 @@ categories: []
 
 **The ABOUT page details important information.**
 
-## Our blog will deliver further information regarding COVID, DigitalID, 5G, AI and related subjects
+## Our blog/news will deliver further information regarding COVID, DigitalID, 5G, AI and related subjects
 
 **Coming soon!!**
 
