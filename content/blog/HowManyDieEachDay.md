@@ -1,6 +1,6 @@
 +++
 author = "Be Informed"
-categories = ["Test categories", "Video"]
+categories = ["Info Graphic", "Video"]
 tags = [""]
 date = "2020-06-05T16:32:55+01:00"
 description = ""

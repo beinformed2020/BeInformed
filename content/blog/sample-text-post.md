@@ -1,12 +1,12 @@
 +++
 author = "Be Informed"
-categories = ["Text"]
-tags = ["Filler"]
+categories = ["News"]
+tags = [""]
 date = "2020-06-05T16:19:05+01:00"
-description = ""
+description = "Et coniuge manus, sucos monendo quaerere vos circum, semper!"
 linktitle = ""
 title = "Sample Text Post"
-draft= "false"
+draft= "true"
 type = "post"
 
 +++
