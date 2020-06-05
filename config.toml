@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Be Informed 2020"
 summaryLength = 20
 paginate = 6
-category = "categories"
+
 
 
 [params]
