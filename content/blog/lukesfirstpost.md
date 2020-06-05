@@ -5,8 +5,8 @@ tags = [""]
 date = "2020-06-05T16:24:32+01:00"
 description = ""
 linktitle = ""
-title = "Lukes first post"
-draft= "true"
+title = "Blog page coming soon"
+draft= "false"
 type = "post"
 
 +++
