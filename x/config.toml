@@ -1,0 +1,26 @@
+theme = "hugo-sugoi"
+baseURL = "https://beinformed.life"
+languageCode = "en-us"
+title = "Be Informed 2020"
+summaryLength = 20
+paginate = 6
+
+
+
+[params]
+favicon = "images/favicon.png"
+herotitle = "Latest news and information"
+
+[hero]
+
+[menu]
+    [[menu.nav]]
+        name    = "about"
+        pre = "<i class='fas fa-home'></i>"
+        url     = "about"
+        weight  = -1
+    [[menu.nav]]
+        name    = "blog"
+        pre = "<i class='fas fa-list'></i>"
+        url     = "post"
+        weight  = -2

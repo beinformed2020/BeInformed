@@ -1,0 +1,98 @@
+Instructions for Luke
+
+
+See below for specific instructions to get you up and running.
+You will not need many different commands or processes once you get it set up and get the hang of it.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Here's a few helpers for you.
+
+I would strongly recommend that you go through the first 10 of these Hugo tutorials;
+https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3
+You wont need to be able to do everything covered, by any means, but it will give you an understanding which will be useful for you as you learn how to use Hugo.
+
+You will, of course, be able to search for tutorials etc as you feel the need.
+
+Here's a few references for relevant commands etc;
+
+HUGO
+
+Hugo 'cheatsheet';
+https://jimmysong.io/cheatsheets/hugo
+
+Hugo shortcodes;
+https://gohugo.io/content-management/shortcodes/
+
+
+GIT
+
+Cheatsheet;
+https://www.philipdaniels.com/gitcheatsheet/
+
+Simple guide
+https://rogerdudler.github.io/git-guide/
+
+MARKDOWN
+
+Here is a simple markdown editor that I have just tried for the first time, it seems like it might be good for you (Atom is amazing but complex and overkill for you perhaps);
+http://pad.haroopress.com/
+
+Hugo markdown cheatsheet;
+https://www.philipdaniels.com/blog/2016/hugo-blogging-cheatsheet/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+To set up beinformed development on your local machine;
+
+Create the folder where you want the local website files to reside.
+Initialise Github
+
+git init
+
+Use Git to pull the master branch (the entire project) from our Github account;
+
+git fetch https://github.com/beinformed2020/BeInformed.git
+
+git clone https://github.com/beinformed2020/BeInformed.git
+
+You now have a clone of the website to add content to.
+
+~~
+
+Run the Hugo software;
+
+hugo server -D
+
+View the local website in
+http://localhost:1313/
+
+~~
+
+Then to add content;
+
+To add a new blog post;
+
+From the root folder of your local website install;
+
+hugo new content/post/nameofpost.md
+
+
+Once you have added your markdown content to the file, you then need to use Git to add, commit and push to github;
+
+Add new files/changes;
+
+git add .
+
+Commit changes;
+
+git commit -am "your commit ref note - make appropriate"
+
+Push to github;
+
+git push -u origin master
+
+Changes will now appear on the live site (after a few seconds)
