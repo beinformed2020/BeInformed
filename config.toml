@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://beinformed.life/"
 languageCode = "en-us"
 title = "Be Informed"
 theme = "hugo-future-imperfect"
