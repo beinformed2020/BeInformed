@@ -1,11 +1,11 @@
 <!-- Header -->
 <header id="header">
     {{ if or .IsHome (not .Site.Params.DynamicTitles) }}
-      <h1><a href="{{ "/" | relURL }}">{{ .Site.Params.navbarTitle }}</a></h1>
+      <h1><i class="fa fa-warning">&nbsp;</i><a href="{{ "/" | relURL }}">{{ .Site.Params.navbarTitle }}</a></h1>
     {{ else if ne .Section "" }}
-      <h1><a href="{{ "/" | relURL }}">{{ .Section }}</a></h1>
+      <h1><i class="fa fa-warning">&nbsp;</i><a href="{{ "/" | relURL }}">{{ .Section }}</a></h1>
     {{ else }}
-      <h1><a href="{{ "/" | relURL }}">{{ .Title }}</a></h1>
+      <h1><i class="fa fa-warning">&nbsp;</i><a href="{{ "/" | relURL }}">{{ .Title }}</a></h1>
     {{ end }}
 
     <nav class="links">
@@ -21,11 +21,6 @@
     </nav>
     <nav class="main">
         <ul>
-            {{ if $.Scratch.Get "shareNav" }}
-            <li id="share-nav" class="share-menu" style="display:none;">
-                <a class="fa-share-alt" href="#share-menu">Share</a>
-            </li>
-            {{ end }}
             <li class="menu">
                 <a class="fa-bars" href="#menu">Menu</a>
             </li>
