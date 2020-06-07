@@ -1,7 +1,7 @@
 +++
 author = "Be Informed"
 categories = ["Video"]
-tags = ["Gates", "Gavi" "Vaccines"]
+tags = ["Gates", "Gavi", "Vaccines"]
 date = "2020-06-07T13:16:49+01:00"
 description = "No one knew when they were electing Johnson that they were electing Gates."
 linktitle = ""
