@@ -6,7 +6,7 @@ date = "{{ .Date }}"
 description = ""
 linktitle = ""
 title = "{{ replace .Name "-" " " | title }}"
-type = "blog"
+type = "post"
 draft= "false"
 
 +++
