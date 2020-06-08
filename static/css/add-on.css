@@ -5,28 +5,31 @@
   within the formating given.
 */
 
-#header {background-color: #0e0a39;}
-#header a {color: white;}
-#header .links a {opacity: 1;}
-#sidebar {display: none;}
-.post {
-    padding: 1em 1em 0.5em 1em;
-    background: lightgray;
-    border: solid 1px rgba(160, 160, 160, 0.3);
-    margin: 0 0 2em 0;
-    position: relative;
+#header {background-color: #0e0a39;
 }
-.post > header .meta {
-    padding: 3.75em 3em 1.75em 3em;
-    border-left: none;
-    min-width: 17em;
-    text-align: right;
-    width: 17em;
+#header a {color: white;
+}
+#header .links a {opacity: 1;
 }
 #header .main ul li > a {color: #ffffff;opacity: 1;
 }
-#header .main ul li {border-left: none;
-}
 h1 i.fa {color: white;
 }
-#dedication {margin: 3.75em 3em 1.75em 3em;}
+#sidebar {display: none;
+}
+#main {}
+#main .post {background:lightgrey; padding: 1em;
+}
+#main .post > header .meta {border: none;
+}
+.post {
+    border: none;
+}
+#details {padding: 1em 1em 0.5em 1em; background-color:antiquewhite; border: solid 1px rgba(160, 160, 160, 0.3);
+}
+#details a:link {text-decoration:underline;
+}
+#dedication {margin: 3.75em 3em 1.75em 3em;
+}
+a { border-bottom: dotted 1px rgba(160, 160, 160, 1);
+}
