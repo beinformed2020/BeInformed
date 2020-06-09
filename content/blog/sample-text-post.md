@@ -1,7 +1,7 @@
 +++
 author = "Be Informed"
 categories = ["News"]
-tags = [""]
+tags = []
 date = "2020-06-05T16:19:05+01:00"
 description = "Et coniuge manus, sucos monendo quaerere vos circum, semper!"
 linktitle = ""

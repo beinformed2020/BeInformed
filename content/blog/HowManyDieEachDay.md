@@ -1,7 +1,7 @@
 +++
 author = "Be Informed"
 categories = ["Info Graphic"]
-tags = [""]
+tags = []
 date = "2020-06-05T16:32:55+01:00"
 description = "Info graphic detailing daily global causes of death."
 linktitle = ""
