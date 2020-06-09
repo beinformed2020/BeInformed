@@ -15,4 +15,4 @@ draft= "false"
 
 ##### 18 mins 
 
-[Go to Bitchute: Spiro Skouras ](http://ascaniumque.io/laeta.php)
+[Go to Bitchute: Spiro Skouras ](https://www.bitchute.com/video/Fe8GPACOMEDh/)
