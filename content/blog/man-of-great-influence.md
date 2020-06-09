@@ -1,7 +1,7 @@
 +++
 author = "Be Informed"
 categories = ["Info Graphic"]
-tags = ["Gates"]
+tags = ["Bill Gates"]
 date = "2020-06-08T12:41:34+01:00"
 description = "Bill Gates and Funding"
 linktitle = ""
