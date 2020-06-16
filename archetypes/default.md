@@ -1,12 +1,9 @@
 +++
-author = "Be Informed"
-categories = [""]
-tags = [""]
-date = "{{ .Date }}"
+author = ""
+title = ""
+date = ""
 description = ""
-linktitle = ""
-title = "{{ replace .Name "-" " " | title }}"
-draft= "false"
-type = "post"
-
+tags = [""]
+categories = [""]
+images = [""]
 +++

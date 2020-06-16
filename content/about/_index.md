@@ -4,7 +4,7 @@ date = "2020-04-23T19:57:09+05:30"
 draft = false
 +++
 
-# Is the Cure worse than the Cause?
+# Is the Cure worse than the About page?
 
 ![Cafe Closed](/blog/ims/cafe_closed.jpg)
 
