@@ -2,9 +2,6 @@
 title = "HOME"
 date = "2020-06-15T19:57:09+05:30"
 draft = false
-aliases = [
-    "/about/_index/"
-]
 +++
 
 
