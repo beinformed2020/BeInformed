@@ -6,7 +6,7 @@ title                   = "Be Informed"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 pluralizeListTitles     = false
-disableLanguages        = [""]
+disableLanguages        = ["true"]
 
 [outputs]
   home                  = ["html", "json"]

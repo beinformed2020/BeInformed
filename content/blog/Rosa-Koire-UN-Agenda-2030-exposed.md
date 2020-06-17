@@ -1,6 +1,6 @@
 +++
 author = "Be Informed"
-categories = ["Video"]
+categories = ["Video Resources"]
 tags = ["UN", "Agenda 2030"]
 date = "2020-06-08T12:51:17+01:00"
 description = "Rosa Koire. UN Agenda 2030  - EXPOSED BY INSIDER"
