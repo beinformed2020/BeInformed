@@ -40,7 +40,7 @@ disableLanguages        = ["true"]
 
   [params.intro]
     header                = "Be Informed"
-    paragraph             = "News and resources related to COVID - ID - 2020 - 5G - AI."
+    paragraph             = "News and resources related to<br> COVID - ID - 2020 - 5G - AI."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -50,7 +50,7 @@ disableLanguages        = ["true"]
       src                 = "img/main/Logo-150w.png"
       shape               = "rectangle"
       width               = ""
-      alt                 = "Be Informed Pheonix Logo"
+      alt                 = "Be Informed Phoenix Logo"
 
   [params.sidebar]
     about               = "Avalon Awake / Be Informed is a pan global information matrix of humanitarians focused on being a positive force for good in the world, helping to support, awaken and empower our global family with resources to become pro-active in creating positive change in the world.  "
@@ -63,7 +63,7 @@ disableLanguages        = ["true"]
     socialFooter        = true
 
   [params.staticman]
-    enabled             = true
+    enabled             = false
     api                 = ""  # No Trailing Slash
     gitProvider         = ""
     username            = ""
