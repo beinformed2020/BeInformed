@@ -53,8 +53,8 @@ disableLanguages        = ["true"]
       alt                 = "Be Informed Phoenix Logo"
 
   [params.sidebar]
-    about               = "Avalon Awake / Be Informed is a pan global information matrix of humanitarians focused on being a positive force for good in the world, helping to support, awaken and empower our global family with resources to become pro-active in creating positive change in the world.  "
-    postAmount          = 5
+    about               = "Be Informed is a pan global information matrix of humanitarians focused on being a positive force for good in the world, helping to support, awaken and empower our global family with resources to become pro-active in creating positive change in the world. "
+    postAmount          = 6
     categories          = true
     categoriesByCount   = true
 
