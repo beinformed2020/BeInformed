@@ -4,7 +4,7 @@ baseurl                 = "https://beinformed.life/"
 DefaultContentLanguage  = "en"
 title                   = "Be Informed"
 theme                   = "hugo-future-imperfect-slim"
-paginate                = 3
+paginate                = 6
 pluralizeListTitles     = false
 disableLanguages        = ["true"]
 
