@@ -3,7 +3,7 @@
 <![endif]-->
 {{ partial "theme-notification" . }}
 <header id="site-header">
-<div id="header-image"></div>
+<div id="header-image">skldclsdckndlsckn</div>
   <nav id="site-nav">
     <h1 class="nav-title">
       <a href="{{ "/" | relLangURL }}" class="nav">
