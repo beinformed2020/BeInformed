@@ -1,9 +1,6 @@
-+++
-author = ""
-title = ""
-date = ""
-description = ""
-tags = [""]
-categories = [""]
-images = [""]
-+++
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+draft: true
+---
+
