@@ -54,7 +54,7 @@ disableLanguages        = ["true"]
 
   [params.sidebar]
     about               = "Be Informed is a pan global information matrix of humanitarians focused on being a positive force for good in the world, helping to support, awaken and empower our global family with resources to become pro-active in creating positive change in the world. "
-    postAmount          = 6
+    postAmount          = 3
     categories          = true
     categoriesByCount   = true
 
