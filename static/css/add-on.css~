@@ -12,6 +12,8 @@
 }
 #site-nav {
     color: white;
-    margin-top: 150px;
 }
 #header-image{}
+a {
+	font-weight: bolder;
+	}

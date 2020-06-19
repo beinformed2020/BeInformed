@@ -125,12 +125,12 @@ disableLanguages        = ["true"]
   # googleplus            = ""
   # reddit                = "example"
   # quora                 = ""
-  youtube               = ""
+  # youtube               = ""
   # vimeo                 = ""
     # WeChat and QQ need testing.
   # instagram             = "example"
-  twitter               = "example"
-  pinterest             = "example"
-  telegram              = "example"
+  # twitter               = "example"
+  # pinterest             = "example"
+  # telegram              = "example"
   # Email
-  email                 = "example"
+  # email                 = "example"
