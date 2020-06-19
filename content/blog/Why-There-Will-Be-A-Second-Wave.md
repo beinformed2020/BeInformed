@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Video Resources"]
 tags: ["Covid", "Second Wave"]
-date: 2020-06-18T17:59:44+01:00
+date: 2020-06-19T16:03:42+01:00
 description: ""
 title: "Why There Will Be a Second Wave"
 draft: false

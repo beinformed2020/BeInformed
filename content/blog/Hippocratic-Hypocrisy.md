@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Video Resources"]
 tags: [""]
-date: 2020-06-18T18:37:56+01:00
+date: 2020-06-19T16:02:42+01:00
 description: ""
 title: "Hippocratic Hypocrisy"
 draft: false

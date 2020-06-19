@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Video Resources"]
 tags: ["Covid", "Quarantine", "Vaccines"]
-date: 2020-06-18T18:17:01+01:00
+date: 2020-06-19T16:04:42+01:00
 description: ""
 title: "Lord Sumption on the UK Lockdown BBC News"
 draft: false

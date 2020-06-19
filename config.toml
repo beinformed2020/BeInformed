@@ -47,9 +47,9 @@ disableLanguages        = ["true"]
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/Logo-150w.png"
+      src                 = "img/main/Logo-184w.png"
       shape               = "rectangle"
-      width               = ""
+      width               = "184px"
       alt                 = "Be Informed Phoenix Logo"
 
   [params.sidebar]
