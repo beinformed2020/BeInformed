@@ -19,7 +19,7 @@
 #site-header .nav {
     font-weight: bolder;
 }
-#header-image{}
+#header-image{height: 220px;}
 a {
 	font-weight: bolder;
 	}

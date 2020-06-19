@@ -34,3 +34,6 @@ a:hover{border-bottom-color:transparent;color:#808fc7;}
     padding: 1em;
     max-width: 55em;
 }
+.flyout-menu {
+    background-color: #604336;
+}
