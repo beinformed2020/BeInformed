@@ -5,15 +5,32 @@
   and follow the formatting and style given.
 */
 #site-nav{
-    background-color:#0e0a39;
+    background-color:#604336;
 }
 #site-nav .nav-title a {
-    color: white;
+    color: #ebd070;
+}
+#site-nav .nav-title a:hover {
+    color: #808fc7;
 }
 #site-nav {
-    color: white;
+    color: #ebd070;
+}
+#site-header .nav {
+    font-weight: bolder;
 }
 #header-image{}
 a {
 	font-weight: bolder;
 	}
+	
+a:hover{border-bottom-color:transparent;color:#808fc7;}
+
+.homepage-header{ margin: 1.5em auto;
+    padding: 1em;
+    max-width: 55em;
+}
+.homepage-content {margin: 1.5em auto;
+    padding: 1em;
+    max-width: 55em;
+}

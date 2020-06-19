@@ -4,8 +4,7 @@ date = "2020-06-15T19:57:09+05:30"
 draft = false
 +++
 
-
-**We are at a critical pivotal point in humanities history.**
+### We are at a critical pivotal point in humanities history.
 
 Whether your perspective is spiritual, religious, environmental, scientific, technological, conspiratorial or social we are in unparalleled times.  During the enforced lockdown there has been a global opportunity to reassess our own lives, what we consider ‘essential’ or what is really important to us, and of course to consider the future humanity is rapidly progressing towards.
  
