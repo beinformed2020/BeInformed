@@ -26,7 +26,7 @@ disableLanguages        = ["true"]
     description         = "Be Informed : News and resources related to COVID - ID - 2020 - 5G - AI."
     author              = "Be Informed"
     favicon             = false
-    svg                 = true
+    svg                 = false
     faviconVersion      = "1"
     msColor             = "#ffffff"
     iOSColor            = "#ffffff"
@@ -35,7 +35,7 @@ disableLanguages        = ["true"]
     navbarTitle         = "Be Informed"
     dynamicTitles       = false
     searchMenu          = true
-    shareMenu           = false
+    shareMenu           = true
     languageMenu        = false
 
   [params.intro]
@@ -48,7 +48,7 @@ disableLanguages        = ["true"]
 
     [params.intro.pic]
       src                 = "img/main/Logo-184w.png"
-      shape               = "rectangle"
+      shape               = "circle"
       width               = "184px"
       alt                 = "Be Informed Phoenix Logo"
 
@@ -60,7 +60,7 @@ disableLanguages        = ["true"]
 
   [params.footer]
     rssFooter           = false
-    socialFooter        = false
+    socialFooter        = true
 
   [params.staticman]
     enabled             = false

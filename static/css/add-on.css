@@ -63,4 +63,7 @@ input[type=submit], input[type=reset], input[type=button], .button {
 .post>header div {
     padding: 0.1em;
 }
-
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
