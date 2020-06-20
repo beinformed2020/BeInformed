@@ -53,3 +53,14 @@ h1, h2, h3, h4, h5, h6 {
 b, strong {
     color: #555;
 }
+input[type=submit], input[type=reset], input[type=button], .button {
+    color: #555;
+}
+.post>header div {
+    padding: 0;
+}
+@media (min-width: 768px)
+.post>header div {
+    padding: 0.1em;
+}
+
