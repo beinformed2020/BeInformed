@@ -34,9 +34,9 @@ disableLanguages        = ["true"]
   [params.header]
     navbarTitle         = "Be Informed"
     dynamicTitles       = false
-    searchMenu          = false
-    shareMenu           = true
-    languageMenu        = true
+    searchMenu          = true
+    shareMenu           = false
+    languageMenu        = false
 
   [params.intro]
     header                = "Be Informed"

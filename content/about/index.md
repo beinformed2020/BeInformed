@@ -2,6 +2,7 @@
 title = "About Us – Mission Statement"
 date = "2020-04-23T19:57:09+05:30"
 draft = false
+layout = "about"
 +++
 ### Be Informed
 
