@@ -38,10 +38,13 @@ a:hover{border-bottom-color:transparent;color:#808fc7;}
     background-color: #604336;
 }
 .post{
-    box-shadow: 3px 3px 3px #aaaaaa;
-    border: 1px solid #d9d9d9;
+    border-top: solid 1px rgba(160,160,160,.4);
+    border-left: solid 1px rgba(160,160,160,.4);
+    box-shadow: 3px 3px 3px rgba(160,160,160,.6);
+
 }
 .mini-post{
-    box-shadow: 3px 3px 3px #aaaaaa;
-        border: 1px solid #d9d9d9;
+    border-top: solid 1px rgba(160,160,160,.4);
+    border-left: solid 1px rgba(160,160,160,.4);
+    box-shadow: 3px 3px 3px rgba(160,160,160,.6);
 }
