@@ -48,7 +48,7 @@ disableLanguages        = ["true"]
 
     [params.intro.pic]
       src                 = "img/main/Logo-184w.png"
-      shape               = "circle"
+      shape               = "rectangle"
       width               = "184px"
       alt                 = "Be Informed Phoenix Logo"
 
