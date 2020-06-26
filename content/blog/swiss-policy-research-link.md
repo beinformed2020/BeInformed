@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["link", "covid"]
-tags: []
+categories: ["Link"]
+tags: ["covid"]
 date: "2020-06-09T19:44:30:01:00"
 description: "Fully referenced facts about Covid-19, provided by experts in the field, to help our readers make a realistic risk assessment."
 linktitle: ""
