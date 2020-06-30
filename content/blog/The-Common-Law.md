@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Take Action", "Website Resources"]
 tags: ["Sovereignty", "Vaccines", "Legal"]
-date: 2020-06-26T16:03:36+01:00
+date: 2020-06-30T16:03:36+01:00
 description: ""
 title: "The Common Law"
 draft: false

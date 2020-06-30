@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Take Action", "Website Resources"]
 tags: ["Sovereignty", "Legal"]
-date: 2020-06-26T16:27:52+01:00
+date: 2020-06-30T15:27:52+01:00
 description: ""
 title: "Common Law Registration Info"
 draft: false
