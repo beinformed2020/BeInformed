@@ -9,18 +9,18 @@ draft: false
 ---
 ## International Community Organizations that offer support and Notices of Liability template forms:
 
-### Solutions Empowerment 
+### Solutions Empowerment
 
 Solutions Empowerment provides you with information, resources and templates to help you tackle the ever increasing burden of financial debts and liabilities, banking issues, fines, court appointments, driving offences, taxation obligations and other matters including sovereign rights and vaccinations.
 
 Maxim of Law - He who is silent, when he ought to have spoken and was able to, is taken to agree
-We are a dedicated group of likeminded people and experts committed to assisting you to become free from the system. 
+We are a dedicated group of likeminded people and experts committed to assisting you to become free from the system.
 
 [www.solutionsempowerment.com](http://www.solutionsempowerment.com)
 
 *NonConsent1 - Solutions & Empowerment*
 
-[Vaccine Non Consent Documents](https://www.solutionsempowerment.com/nonconsent1) 
+[Vaccine Non Consent Documents](https://www.solutionsempowerment.com/nonconsent1)
 
 
 - - -
@@ -67,3 +67,17 @@ A common reason to join the solution of Unify The People is networking. And if y
 
 Canada Based
 We’re all working together, that’s the secret. We are creating a Constitution that represents both man & womans unalienable rights, liberties and freedoms. The Constitution will create an accountable government that is responsible to the sovereigns. People from all provinces and territories now have an opportunity to learn, voice their options and actively participate to make changes to policies through our interactive website.
+
+- - -
+
+### Earthunited
+
+[https://www.earthunited.global/](https://www.earthunited.global/)
+
+Earth United is a global organization that is geared towards abolishing governemnt and allowing a safe global enviroment for exponential progress to occur.
+
+>We need to unify our forces in order to create a global support eco-system that can help us finally put an end to global tyranny and corruption.  
+*Earth United's Founder - Jesse Perez Casanova*  
+  
+
+
