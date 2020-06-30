@@ -79,5 +79,10 @@ Earth United is a global organization that is geared towards abolishing governem
 >We need to unify our forces in order to create a global support eco-system that can help us finally put an end to global tyranny and corruption.  
 *Earth United's Founder - Jesse Perez Casanova*  
   
+  If you want to successfully fight for freedom and help us swiftly get rid of world governments!
+
+Help us get a clear idea of how many of you are from each country by filling in our contact form on the website.
+
+We would like to find 100k people in each of the following countries to follow through with a public court proceeding where within the realm of common law,  will hold world governments accountable for constructive fraud committed against us over many years.
 
 
