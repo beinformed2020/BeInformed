@@ -9,6 +9,6 @@ draft: false
 ---
 
 
-Really excellent video  
+Tom Barnett Interview with The Godfather of True Law, Equity, Suveran, The REMEDY for OPPRESSION  
 
 {{< youtube KZ2-Ioti5zA >}}
