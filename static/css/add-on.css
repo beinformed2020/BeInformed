@@ -67,3 +67,8 @@ img[src*='#center'] {
     display: block;
     margin: auto;
 }
+#take-action-intro{
+background-color: wheat;
+    margin: 1.5em auto;
+    padding: 1em;
+    max-width: 55em;}
