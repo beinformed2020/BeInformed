@@ -98,7 +98,7 @@ disableLanguages        = ["true"]
     weight            = 3
 
   [[menu.main]]
-    name              = "Rabbit Warren"
+    name              = "Info Tree"
     identifier        = "categories"
     url               = "/categories/"
     pre               = "<i class='fas fa-sitemap'></i>"
