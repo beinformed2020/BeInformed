@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Covid", "Link"]
-tags: ["NHS"]
+categories: [ "Link"]
+tags: ["Covid", "NHS"]
 date: 2020-07-20T17:38:43+01:00
 description: ""
 title: "NHS Consultant Says Staff Are Being Silenced"

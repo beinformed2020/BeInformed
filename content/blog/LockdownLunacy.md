@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Covid", "Link"]
-tags: [""]
+categories: ["Link"]
+tags: ["Covid"]
 date: 2020-07-20T18:06:01+01:00
 description: ""
 title: "Lockdown Lunacy: the thinking person's guide"

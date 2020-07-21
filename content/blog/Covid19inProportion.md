@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Covid", "Link"]
-tags: [""]
+categories: ["Link"]
+tags: ["Covid"]
 date: 2020-07-20T18:03:46+01:00
 description: ""
 title: "Covid 19 in Proportion?"

@@ -91,7 +91,7 @@ disableLanguages        = ["true"]
     weight            = 2
 
   [[menu.main]]
-    name              = "Latest News"
+    name              = "Latest"
     identifier        = "blog"
     url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"

@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Covid", "Link"]
-tags: [""]
+categories: ["Link"]
+tags: ["Covid"]
 date: 2020-07-20T17:56:48+01:00
 description: ""
 title: "Lockdown Deaths Not Covid Deaths"

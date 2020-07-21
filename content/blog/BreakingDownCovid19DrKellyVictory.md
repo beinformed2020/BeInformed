@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Covid", "Video Resources"]
-tags: [""]
+categories: [ "Video Resources"]
+tags: ["Covid"]
 date: 2020-07-20T17:53:39+01:00
 description: ""
 title: "Breaking Down Covid19 - Dr Kelly Victory"
