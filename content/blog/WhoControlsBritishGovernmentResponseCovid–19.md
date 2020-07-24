@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Link"]
-tags: ["Covid","Quarantine"]
+tags: ["Covid","Quarantine", "Gavi", "Bill Gates", "ID"]
 date: 2020-07-24T13:36:12+01:00
 description: ""
 title: "Who Controls the British Government Response to Covid–19"
