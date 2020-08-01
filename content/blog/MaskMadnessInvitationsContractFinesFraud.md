@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Video Resources", "Take Action"]
-tags: ["Masks", Covid", "Quarantine", "Vaccines"]
+tags: ["Masks", Covid", "Common Law"]
 date: 2020-08-01T15:11:40+01:00
 description: ""
 title: "Mask Madness Invitations Contract Fines(Fraud)"
