@@ -4,7 +4,7 @@ categories: ["Video Resource", "Website Resources"]
 tags: ["Assange"]
 date: 2020-08-03T11:27:30+01:00
 description: ""
-title: "AssangeLegalFarceContinues"
+title: "Assange Legal Farce Continues"
 draft: false
 ---
 
