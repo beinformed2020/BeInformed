@@ -13,3 +13,5 @@ LIVE from the steps of the US Supreme Court.
 America’s Frontline Doctors - Physicians from around the country.
 
 https://open.lbry.com/@AmericasFrontlineDoctors2:6/America's-Frontline-Doctors-Summit-Session-2_28juli2020:c
+
+[Press Conference of America's Frontline Doctors Website](https://americasfrontlinedoctorsummit.com/)

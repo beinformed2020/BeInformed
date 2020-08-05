@@ -12,3 +12,5 @@ America's Frontline Doctors Summit - Session 1
 Inexcusably censored from YouTube, here is the first 3 hour session with America's Frontline Doctors.
 
 https://open.lbry.com/@AmericasFrontlineDoctorsMirror:5/America's-Frontline-Doctors-Summit---Session-1---cKbQbcInHnA:7
+
+[Press Conference of America's Frontline Doctors Website](https://americasfrontlinedoctorsummit.com/)
