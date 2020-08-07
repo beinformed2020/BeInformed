@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Take Action", "Website Resources", "Downloads"]
-tags: ["Sovereignty", "Legal"]
+tags: ["Sovereignty", "Legal", "Vaccines"]
 date: 2020-06-30T12:00:38+01:00
 description: ""
 title: "Vaccines Forms"
