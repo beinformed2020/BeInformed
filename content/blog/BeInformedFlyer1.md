@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Leaflet Downloads"]
 tags: ["Covid"]
-date: 2020-08-05T14:55:56+01:00
+date: 2020-08-07T17:55:56+01:00
 description: ""
 title: "BeInformed Printable Flyer Download"
 draft: false
