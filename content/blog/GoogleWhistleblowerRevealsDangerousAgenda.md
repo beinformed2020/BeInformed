@@ -10,7 +10,7 @@ draft: false
 
 A former insider who worked at YouTube / Google, Zach Vorhies shares his story about what he uncovered while working for the tech giant.
 
-[Bitchute](https://www.bitchute.com/video/loJJXTlLtMUb/)  
+[Video: Bitchute](https://www.bitchute.com/video/loJJXTlLtMUb/)  
 
 Zach Vorhies’ Website 
 https://www.zachvorhies.com 
