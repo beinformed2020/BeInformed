@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Video"]
-tags: ["Covid", "Quarantine", "Lockdowns"]
+tags: ["Covid", "Lockdowns", "Lockdowns"]
 date: 2020-08-07T17:06:29+01:00
 description: ""
 title: "Fact Free Lockdown Hysteria"

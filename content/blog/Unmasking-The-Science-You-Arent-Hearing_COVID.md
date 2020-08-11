@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Video"]
-tags: ["Covid", "Quarantine", "Vaccines"]
+tags: ["Covid", "Lockdowns", "Vaccines"]
 date: 2020-06-18T18:13:29+01:00
 description: ""
 title: "Unmasking the Science You Arent Hearing on COVID"

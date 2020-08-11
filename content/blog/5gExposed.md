@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Video"]
-tags: ["Bill Gates", Covid", "Quarantine", "Lockdowns"]
+tags: ["Bill Gates", Covid", "Lockdowns", "Lockdowns"]
 date: 2020-08-10T16:11:11+01:00
 description: ""
 title: "5g Exposed"

@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Video"]
-tags: ["Covid", "Quarantine", "Vaccines"]
+tags: ["Covid", "Lockdowns", "Vaccines"]
 date: 2020-06-18T18:08:27+01:00
 description: ""
 title: "The Dangerous Consequences of Quarantine"

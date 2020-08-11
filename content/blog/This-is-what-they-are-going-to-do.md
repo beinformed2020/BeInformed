@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Video"]
-tags: ["Covid", "Quarantine"]
+tags: ["Covid", "Lockdowns"]
 date: 2020-06-18T18:31:12+01:00
 description: ""
 title: "This Is What They Are Going to Do"

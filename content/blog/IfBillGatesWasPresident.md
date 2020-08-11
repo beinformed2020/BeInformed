@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Video"]
-tags: ["Bill Gates", Covid", "Quarantine", "Lockdowns"]
+tags: ["Bill Gates", Covid", "Lockdowns", "Lockdowns"]
 date: 2020-08-08T13:55:25+01:00
 description: ""
 title: "If Bill Gates Was President..."
