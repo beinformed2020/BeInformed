@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Take Action", "Video", "Website Resources"]
+categories: ["Take Action", "Video", "Website"]
 tags: ["New World Order", "Agenda 2030"]
 date: 2020-08-01T14:46:23+01:00
 description: ""

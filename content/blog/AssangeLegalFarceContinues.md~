@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resource", "Website Resources"]
+categories: ["Video", "Website Resources"]
 tags: ["Assange"]
 date: 2020-08-03T11:27:30+01:00
 description: ""

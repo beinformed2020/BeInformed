@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Video"]
-tags: ["Covid", "Masks", "Vaccines", "social distancing", "Banning of cash"]
+tags: ["Covid", "Masks", "Vaccines", "Social distancing", "Banning of cash"]
 date: 2020-07-24T11:03:25+01:00
 description: ""
 title: "Dr. Vernon Coleman: ‘These Are Five Battles We Cannot Afford to Lose'"
