@@ -8,4 +8,6 @@ title: "Covid Wars: Windows on the World"
 draft: false
 ---
 
+Covid19 and global government measures are an accelerant for the Global Government Order.
+
 [www.spreaker.com](https://www.spreaker.com/user/markwindows/covid-wars)
