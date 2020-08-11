@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Leaflet Downloads"]
+categories: ["Downloads"]
 tags: ["Covid", "Hydroxychloroquine"]
 date: 2020-08-06T14:33:04+01:00
 description: ""

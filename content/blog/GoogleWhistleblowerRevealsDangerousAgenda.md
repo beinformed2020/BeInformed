@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Video Resource"]
-tags: [AI", "Censorship", "Propaganda"]
+categories: ["Video"]
+tags: ["AI", "Censorship", "Propaganda"]
 date: 2020-08-10T17:57:24+01:00
 description: ""
 title: "YouTube / Google Whistleblower Reveals A Dangerous Agenda!"

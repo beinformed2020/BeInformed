@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: [ "Video Resources"]
+categories: [ "Video"]
 tags: ["Covid"]
 date: 2020-07-20T17:53:39+01:00
 description: ""

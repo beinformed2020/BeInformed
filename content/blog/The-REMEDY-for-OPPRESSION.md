@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources", "Take Action"]
+categories: ["Video", "Take Action"]
 tags: ["Sovereignty", "Legal"]
 date: 2020-06-26T17:00:38+01:00
 description: ""

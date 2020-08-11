@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Covid", "Fact-checkers", "Masks"]
 date: 2020-08-05T14:46:40+01:00
 description: ""

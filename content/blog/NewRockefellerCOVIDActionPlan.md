@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["New World Order"]
 date: 2020-08-05T14:27:35+01:00
 description: ""

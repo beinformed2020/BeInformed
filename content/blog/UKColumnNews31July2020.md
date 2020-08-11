@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Covid", "Quarantine", "Lockdowns"]
 date: 2020-08-06T14:44:27+01:00
 description: ""

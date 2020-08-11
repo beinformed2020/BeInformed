@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Agenda 2030"]
 date: 2020-08-01T15:57:33+01:00
 description: ""

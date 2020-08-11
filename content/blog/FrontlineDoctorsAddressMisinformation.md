@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Covid", "Medical", "Lockdowns", "Hydroxychloroquine" ]
 date: 2020-07-30T12:46:07+01:00
 description: ""

@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["info-graphic"]
+categories: ["Info-graphic"]
 tags: ["Covid", "Masks"]
 date: 2020-06-19T15:33:39+01:00
 description: ""

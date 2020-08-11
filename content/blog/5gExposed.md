@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resource"]
+categories: ["Video"]
 tags: ["Bill Gates", Covid", "Quarantine", "Lockdowns"]
 date: 2020-08-10T16:11:11+01:00
 description: ""

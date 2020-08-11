@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources", "Link"]
+categories: ["Video", "Link"]
 tags: ["Lancet", "Vaccines", "Hydroxychloroquine"]
 date: 2020-06-13T17:31:51+01:00
 description: "Philippe Douste-Blazy, MD, a cardiologist and former French Health Minister who served as Under-Secretary General of the United Nations; he was a candidate in 2017 for Director of the World Health Organization."

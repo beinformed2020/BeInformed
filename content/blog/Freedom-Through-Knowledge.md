@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Take Action", "Video Resources"]
+categories: ["Take Action", "Video"]
 tags: ["Sovereignty", "Vaccines", "Legal"]
 date: 2020-06-30T14:18:50+01:00
 description: "A 3-step process of Non-Consenting to Vaccinations and the Lockdown"

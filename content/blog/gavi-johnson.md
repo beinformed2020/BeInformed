@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Bill Gates", "Gavi", "Vaccines"]
 date: "2020-06-07T13:16:49+01:00"
 description: "No one knew when they were electing Johnson that they were electing Gates."

@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Bill Gates", "Vaccines", "ID"]
 date: 2020-07-29T11:00:14+01:00
 description: ""

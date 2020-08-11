@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Covid", "Bill Gates"]
 date: 2020-06-19T15:18:15+01:00
 description: ""

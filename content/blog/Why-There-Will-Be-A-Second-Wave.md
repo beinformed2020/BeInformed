@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Covid", "Second Wave"]
 date: 2020-06-19T16:03:42+01:00
 description: ""

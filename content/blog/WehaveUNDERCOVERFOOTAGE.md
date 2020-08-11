@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Vaccines"]
 date: 2020-08-07T16:48:04+01:00
 description: ""

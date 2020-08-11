@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Take Action", "Video Resources"]
+categories: ["Take Action", "Video"]
 tags: ["Intention"]
 date: 2020-08-01T15:50:55+01:00
 description: ""

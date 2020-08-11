@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Bill Gates", "Vaccines", "ID"]
 date: "2020-06-09T12:37:19+01:00"
 description: "Today we are going to fact check the fact checkers regarding many online reports that bill gates wants to implant microchips in people using vaccines to fight the coronavirus."

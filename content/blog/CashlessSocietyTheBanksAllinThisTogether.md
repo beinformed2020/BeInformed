@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Banning of cash"]
 date: 2020-08-05T14:24:23+01:00
 description: ""

@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Vaccines", "Bill Gates"]
 date: "2020-06-05T16:20:54+01:00"
 description: "Meet Bill Gates produced by James Corbett"

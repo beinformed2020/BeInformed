@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["Children"]
 date: 2020-08-05T14:19:19+01:00
 description: ""

@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["9/11"]
 date: 2020-06-19T15:25:22+01:00
 description: ""

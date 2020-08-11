@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video Resources"]
+categories: ["Video"]
 tags: ["5G"]
 date: 2020-06-18T18:44:23+01:00
 description: ""
