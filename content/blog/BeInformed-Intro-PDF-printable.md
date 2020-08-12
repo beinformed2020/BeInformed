@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Downloads"]
+categories: ["Download"]
 tags: ["Covid", "Children"]
 date: 2020-06-19T16:01:42+01:00
 description: ""

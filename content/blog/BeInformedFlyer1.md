@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Downloads"]
+categories: ["Download"]
 tags: ["Covid"]
 date: 2020-08-07T17:55:56+01:00
 description: ""
