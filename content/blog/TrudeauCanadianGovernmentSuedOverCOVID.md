@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video"]
+categories: ["Video", "Take Action"]
 tags: ["Covid", "Legal"]
 date: 2020-08-18T18:21:32+01:00
 description: ""
@@ -10,4 +10,4 @@ draft: false
 
 Sets Worldwide Example w/ Rocco Galati
 
-[YouTube](https://www.youtube.com/watch?v=M45-zvKXFwk&feature=youtu.be)
+{{< youtube M45-zvKXFwk >}}
