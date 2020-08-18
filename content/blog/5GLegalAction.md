@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Link"]
-tags: ["Take Action", "5G"]
+categories: ["Take Action","Link"]
+tags: ["5G"]
 date: 2020-08-18T11:44:44+01:00
 description: ""
 title: "5G Legal Action - Help us secure a safer future "

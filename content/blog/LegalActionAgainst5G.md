@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Website"]
-tags: ["5G", "Take Action"]
+categories: ["Take Action", "Website"]
+tags: ["5G"]
 date: 2020-08-18T11:41:24+01:00
 description: ""
 title: "Legal Action Against 5G"
