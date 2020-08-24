@@ -14,7 +14,5 @@ draft: false
 
 [Download: Printable PDF](../ims/UniteForFreedomTrafalgarSquare.pdf)
 
-![UNITE 4 FREEDOM MASS PROTEST AND MARCH](../ims/UNITE-4-FREEDOM-MASS-PROTEST-MARCH.jpg)
-
 ![UNITE FOR FREEDOM](/home/kai/Dev/BeInformed/content/blog/ims/UNITE-4-FREEDOM-MASS-PROTEST-MARCH.jpg)
 
