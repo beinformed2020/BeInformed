@@ -10,7 +10,7 @@ draft: false
 
 **Public Notice: Covid-19 Update**
 
-[Download: BeInformed Printable PDF](../ims/AVALON_RISING_4_PP_A4_to_A5_FOLD_BOOKLET_DOUBLE_SIDED_PRINT_READY.pdf) 
+[Download: BeInformed Printable PDF](../ims/AVALON_RISING_4_PP_A4_to_A5_FOLD_BOOKLET_DOUBLE_SIDED_PRINT_READY.pdf)
 
 # Is the Cure worse than the Cause?
 
