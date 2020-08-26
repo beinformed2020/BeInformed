@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Website"]
-tags: ["911"]
+tags: ["9/11"]
 date: 2020-08-12T17:32:49+01:00
 description: ""
 title: "Architects & Engineers for 9/11 Truth"
