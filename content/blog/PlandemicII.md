@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Video"]
 tags: ["Covid", ""]
-date: 2020-08-24T13:14:44+01:00
+date: 2020-08-26T14:52:55+01:00
 description: ""
 title: "Plandemic II: Indoctornation"
 draft: false
