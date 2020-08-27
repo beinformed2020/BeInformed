@@ -8,7 +8,7 @@ title: "Boris - Back To School Call - Whats Really Going On?"
 draft: false
 ---
 
-**FOR ALL THE  PARENTS OUT THERE WHOSE KIDS MAYBE GOING BACK IN SEPTEMBER... **
+**FOR ALL THE  PARENTS OUT THERE WHOSE KIDS MAYBE GOING BACK IN SEPTEMBER...**
 
 [5G Media Watch](https://www.5gmediawatch.com/post/boris-back-to-school-call-whats-really-going-on)
 

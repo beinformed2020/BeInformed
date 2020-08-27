@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Video"]
-tags: ["Covid", "Take Action", "New World Order"]
+categories: ["Video", "Take Action"]
+tags: ["Covid", "New World Order"]
 date: 2020-08-17T17:43:55+01:00
 description: ""
 title: "How Do I Wake Up My Friends and Family? - Questions For Corbett"

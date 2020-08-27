@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Link"]
-tags: ["Take Action", "Covid"]
+categories: ["Link", "Take Action"]
+tags: ["Covid"]
 date: 2020-08-26T15:24:57+01:00
 description: ""
 title: "standupx: Next weekend we Stand up for the children"
