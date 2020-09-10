@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Video"]
-tags: ["Covid", "Medical", "PCR"]
+tags: ["Covid", "Medical", "Testing"]
 date: 2020-08-26T14:19:32+01:00
 description: ""
 title: "Casedemic: Crucial Viewing - to truly understand our current Viral Issue #Casedemic"
