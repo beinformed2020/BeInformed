@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Video"]
 tags: ["Assange"]
-date: 2020-09-15T19:26:16+01:00
+date: 2020-09-15T20:01:16+01:00
 description: ""
 title: "THE WAR ON JOURNALISM - THE CASE OF JULIAN ASSANGE (2020)"
 draft: false
@@ -12,4 +12,4 @@ Journalists are under attack globally for doing their jobs. Julian Assange is fa
 
 There is a war on journalism - Julian Assange is at the centre of that war. If this precedent is set then what happens to Assange can happen to any journalist.
 
-[BITCHUTE](https://www.bitchute.com/video/zMDerDK2ppwJ/)
+[VIDEO HERE: BITCHUTE](https://www.bitchute.com/video/zMDerDK2ppwJ/)
