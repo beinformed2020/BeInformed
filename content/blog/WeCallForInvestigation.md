@@ -4,7 +4,7 @@ categories: ["Link"]
 tags: ["Legal"]
 date: 2020-09-16T13:36:24+01:00
 description: ""
-title: "We Call For Investigations Into The "Bill & Melinda Gates Foundation" For Medical Malpractice & Crimes Against Humanity"
+title: "We Call For Investigations Into The Bill & Melinda Gates Foundation For Medical Malpractice & Crimes Against Humanity"
 draft: false
 ---
 
