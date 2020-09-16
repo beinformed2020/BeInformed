@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Covid"]
-tags: [""]
+categories: ["Video"]
+tags: ["Covid"]
 date: 2020-08-17T17:26:30+01:00
 description: ""
 title: "Why has the Daily Death Toll Revised"
