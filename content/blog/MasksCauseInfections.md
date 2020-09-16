@@ -8,4 +8,4 @@ title: "Masks Could Cause Infections : Medical Chief"
 draft: false
 ---
 
-![](/home/kai/Dev/BeInformed/content/blog/ims/photo_2020-08-05_10-22-02.jpg)
+![](../ims/photo_2020-08-05_10-22-02.jpg)

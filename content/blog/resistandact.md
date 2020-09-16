@@ -22,4 +22,4 @@ Trafalgar Square, London
 
 https://www.standupx.info/
 
-![Resist and Act](ims/resistandact.jpg) 
+![Resist and Act](../ims/resistandact.jpg) 
