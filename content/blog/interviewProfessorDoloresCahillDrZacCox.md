@@ -8,4 +8,4 @@ title: "World Doctors Alliance interview with Professor Dolores Cahill and Dr Za
 draft: false
 ---
 
-https://www.facebook.com/danjgregory/videos/10158723505117402/
+https://brandnewtube.com/watch/world-doctors-alliance-interview-with-professor-dolores-cahill-and-dr-zac-cox_fPUfTMSbE6fvrHb.html
