@@ -9,3 +9,5 @@ draft: false
 ---
 
 https://brandnewtube.com/watch/world-doctors-alliance-interview-with-professor-dolores-cahill-and-dr-zac-cox_fPUfTMSbE6fvrHb.html
+
+![World Doctors Alliance: Seminar Sunday Sept 20th.](../ims/seminarsep20.jpg)

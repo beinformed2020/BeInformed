@@ -13,3 +13,6 @@ draft: false
 **Expert Panel**
 
 https://brandnewtube.com/watch/doctors-seminar-event-preview_FHj4nAQqUlbdZlg.html
+
+![World Doctors Alliance: Seminar Sunday Sept 20th.](../ims/seminarsep20.jpg)
+
