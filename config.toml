@@ -59,7 +59,7 @@ disableLanguages        = ["true"]
     categoriesByCount   = true
 
   [params.footer]
-    rssFooter           = false
+    rssFooter           = true
     socialFooter        = true
 
   [params.staticman]
