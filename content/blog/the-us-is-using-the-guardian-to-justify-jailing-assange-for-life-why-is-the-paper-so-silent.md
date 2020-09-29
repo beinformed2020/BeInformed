@@ -4,7 +4,7 @@ categories: ["Link"]
 tags: ["Assange"]
 date: 2020-09-29T19:13:07+01:00
 description: ""
-title: "The Us Is Using the Guardian to Justify Jailing Assange for Life Why Is the Paper So Silent"
+title: "The Us Is Using the Guardian to Justify Jailing Assange for Life: Why Is the Paper So Silent?"
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Covid"]
-tags: ["Legal"]
+categories: ["Video"]
+tags: ["Legal", "Covid"]
 date: 2020-09-22T12:21:20+01:00
 description: ""
 title: "Controversial arrest for blowing bubbles in Trafalgar Square London"
