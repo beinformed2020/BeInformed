@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Link"]
-tags: ["Protets", "Covid"]
+tags: ["Protest", "Covid"]
 date: 2020-09-24T14:17:43+01:00
 description: ""
 title: "A Global Uprising Is Underway"

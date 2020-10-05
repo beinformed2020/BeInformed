@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
-categories: ["Website"]
-tags: ["Covid", "Take Action"]
+categories: ["Website", "Take Action"]
+tags: ["Covid", "Protest"]
 date: 2020-08-17T16:53:29+01:00
 description: ""
 title: "Stand Up UK!"

@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Video"]
-tags: ["Music", "Protests"]
+tags: ["Music", "Protest"]
 date: 2020-09-29T18:59:56+01:00
 description: ""
 title: "Stand Up X :Trafalgar Square"

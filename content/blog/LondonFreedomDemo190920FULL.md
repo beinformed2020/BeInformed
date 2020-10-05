@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Video"]
-tags: ["Covid", "Protests"]
+tags: ["Covid", "Protest"]
 date: 2020-09-22T12:25:42+01:00
 description: ""
 title: "London Freedom Demo 19 09 20 (FULL)"
