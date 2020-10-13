@@ -10,7 +10,7 @@ draft: false
 
 **Vaxxed TV**  
 
-{{< youtube E7u7giY2nc >}}
+VIEW VIDEO HERE: https://www.youtube.com/watch?v=_E7u7giY2nc&feature=youtu.be  
 
 https://vaxxedthemovie.com/  
 
