@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Video"]
 tags: ["Covid", "Testing"]
-date: 2020-06-18T18:23:34+01:00
+date: 2020-10-18T18:23:34+01:00
 description: ""
 title: "Should You Take the COVID19 Test"
 draft: false

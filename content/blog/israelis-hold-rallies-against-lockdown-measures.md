@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Link"]
-tags: ["Protest", "Lockdown", "Covid"]
+tags: ["Protest", "Lockdowns", "Covid"]
 date: 2020-10-05T15:08:38+01:00
 description: ""
 title: "Israelis Hold Rallies Against Lockdown Measures"

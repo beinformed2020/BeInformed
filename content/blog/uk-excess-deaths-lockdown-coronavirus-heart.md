@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Link"]
-tags: ["Covid", "Lockdown"]
+tags: ["Covid", "Lockdowns"]
 date: 2020-09-29T19:09:14+01:00
 description: ""
 title: "Uk Excess Deaths Lockdown Coronavirus Heart"
