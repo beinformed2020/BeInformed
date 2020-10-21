@@ -12,4 +12,4 @@ draft: false
 
 Prof. Dr Dolores Cahill has over 25 years expertise in high-throughput protein array, antibody array, proteomics technology development,automation and their biomedical applications, including in biomarker discovery, diagnostics and personalised medicine.
 
-{{< youtube U9ti6isM-NY >}}
+https://thefreedomcycle.com/covid/dolores-cahill.html#extHeader15-17d

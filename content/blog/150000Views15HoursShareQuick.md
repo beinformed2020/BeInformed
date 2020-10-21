@@ -10,4 +10,4 @@ draft: false
 
 ## WARNING he is ANGRY  
 
-{{< youtube VeqKBdLQWRs >}}
+https://www.bitchute.com/video/PZnsaFyxDJlk/

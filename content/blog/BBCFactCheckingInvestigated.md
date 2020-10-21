@@ -10,4 +10,4 @@ draft: false
 
 International best-selling author, Dr Vernon Coleman MB ChB DSc FRSA, shows how and why he believes BBC fact checkers are wrong about mask wearing, and provides evidence proving that masks can be dangerous. 
 
-{{< youtube A-ZA8r6EcO0 >}}
+https://videobanned.nl/aiovg_videos/bbc-fact-checking-investigated-27-7-2020/

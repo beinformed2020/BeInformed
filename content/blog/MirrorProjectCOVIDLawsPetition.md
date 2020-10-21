@@ -12,4 +12,4 @@ The Mirror Project - COVID Laws Petition - EP 9
 SIGN THE PETITION : https://www.mp-22.com/vax-pettion
 If there is one document you should read this year, it’s this one.
 
-{{< youtube qEzMmAhG_Ss >}}
+https://www.bitchute.com/video/gzGslnTcUiCU/

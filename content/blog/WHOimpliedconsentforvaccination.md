@@ -10,4 +10,4 @@ draft: false
 
 You might want to have a look at this WHO document about vaccination and consent.  Whilst many of us believe they would be using the formal written consent method -given the nefarious nature of this monstrous organisation I thought you might want to be aware of option 3. On the day of vaccination it could be construed as implied consent if your child attends school.
 
-{{< youtube w24_egDiEbo >}}
+https://www.bitchute.com/video/AQ53yBxNsMvx/

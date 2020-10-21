@@ -12,9 +12,7 @@ Dr Kelly Victory makes an excellent overview, addressing many central issues.
 Excellent for anxiety reduction.  
 Includes solid suggestions for maintaining good health.  
 
-{{< youtube 4QxlvqiaYCM >}}
-
-
+https://vimeo.com/440022908
 
 
 

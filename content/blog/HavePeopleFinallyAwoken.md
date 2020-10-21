@@ -10,4 +10,4 @@ draft: false
 
 Jeff Berwick – The Dollar Vigilante – discusses the massive protests taking place in London and Germany against oppressive government lockdowns during the COVID-19 hysteria.
 
-{{< youtube RMzzZmWJebQ >}}
+https://dollarvigilante.com/blog/2020/08/30/have-the-people-finally-awoken/

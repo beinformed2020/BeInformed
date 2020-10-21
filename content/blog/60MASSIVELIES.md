@@ -10,4 +10,4 @@ draft: false
 
 **THIS IS HUGE... THE DOCTORS ARE FIGHTING BACK WITH TRUTH!!!!**
 
-{{< youtube aaqGkZEq808 >}}
+https://www.bitchute.com/video/HAlWAAUPGJVn/

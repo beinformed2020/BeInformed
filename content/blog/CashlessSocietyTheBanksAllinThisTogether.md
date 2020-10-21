@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Video"]
+categories: ["Link"]
 tags: ["Banning of cash"]
 date: 2020-08-05T14:24:23+01:00
 description: ""
@@ -10,4 +10,4 @@ draft: false
 
  Caroline Stephens seeking the truth
 
-{{< youtube zjjRQFn8wBk >}}
+https://www.carolinestephens.net/post/cash-we-re-all-in-it-together-well-the-banks-are

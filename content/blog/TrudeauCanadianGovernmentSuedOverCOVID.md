@@ -10,4 +10,4 @@ draft: false
 
 Sets Worldwide Example w/ Rocco Galati
 
-{{< youtube M45-zvKXFwk >}}
+https://www.bitchute.com/video/GVDpjxNyBeG7/

@@ -10,4 +10,4 @@ draft: false
 
 International best-selling author, Dr Vernon Coleman MB ChB DSc FRSA, discusses hypocrisy, masks, loopholes, celebrities, cognitive dissonance and how trolls...  
 
-{{< youtube UUOpKyAtxEw >}}
+https://brandnewtube.com/watch/zombies-and-trolls_AHvyIAmfT7UlgTQ.html

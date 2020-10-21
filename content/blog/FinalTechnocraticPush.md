@@ -10,4 +10,4 @@ draft: false
 
 Whitney Webb to discusses her recent article on the chilling 2020 election predictions being made by TIP, and how it all seems to be yet again feeding into the same, seemingly all-encompassing, technocratic agenda.
 
-{{< youtube 1SU7VuX-Ip8 >}}
+https://www.bitchute.com/video/5yMhn8XkX8x9/
