@@ -73,3 +73,7 @@ background-color: wheat;
     padding: 1em;
     max-width: 55em;}
     
+	.post footer .button {
+
+    display: none;
+}
