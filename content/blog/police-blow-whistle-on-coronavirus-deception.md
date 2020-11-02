@@ -13,3 +13,5 @@ A LETTER written by a senior constable from the Coffs/Clarence  Highway Patrol i
 The letter, dated October 26, is addressed to NSW Commissioner of  Police Michael Fuller and is one of the best rebuttals of the COVID  narrative of fear and control written anywhere, noting false predictions of its severity, false and misleading statistics, flaws in testing and  serious questions around the virus itself.  
 
 [Cairn News](https://cairnsnews.org/2020/11/02/police-blow-whistle-on-coronavirus-deception/)
+
+[Cops for Covid Truth](https://advocateme.wixsite.com/copsforcovidtruth/the-project)
