@@ -8,7 +8,7 @@ title: "LOCKDOWN ADVICE USING COMMON LAW for SMALL BUSINESSES"
 draft: false
 ---
 
-  **LOCKDOWN ADVICE USING COMMON LAW FOR SMALL BUSINESSES**
+  **LOCKDOWN ADVICE USING COMMON LAW FOR SMALL BUSINESSES**  
 “Lockdown! If you are a small business you DO NOT have to just roll over and close.   
 Asking you to close is simply an OFFER.  
 
