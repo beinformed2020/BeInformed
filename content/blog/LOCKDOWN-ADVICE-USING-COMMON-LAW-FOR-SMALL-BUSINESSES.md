@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Downloads", "Take Action"]
 tags: ["Legal", "Common Law"]
-date: 2020-11-03T16:33:43Z
+date: 2020-11-03T19:59:43Z
 description: ""
 title: "LOCKDOWN ADVICE USING COMMON LAW for SMALL BUSINESSES"
 draft: false
