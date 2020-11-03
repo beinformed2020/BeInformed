@@ -8,6 +8,18 @@ title: "LOCKDOWN ADVICE USING COMMON LAW for SMALL BUSINESSES"
 draft: false
 ---
 
+  **LOCKDOWN ADVICE USING COMMON LAW FOR SMALL BUSINESSES**
+“Lockdown! If you are a small business you DO NOT have to just roll over and close.   
+Asking you to close is simply an OFFER.  
+
+*Liverpool gym owners said NO and they are still open.*  
+
+Put the government on notice of "conditional acceptance" NOW.  
+
+This is the highest form of honour, they have made you an OFFER you have ACCEPTED it under CONDITIONS, the ball is then in their court, they MUST rebut your points with clear factual evidence.  
+
+An example of what to write Copied from Kamala Lynda Todd.  
+
 **WRITE TO GOVERNMENT thus:**
 
 I write to you to put you, the government of the United Kingdom on notice of "conditional acceptance of lockdown" as of today the 3rd Nov 2020.  
