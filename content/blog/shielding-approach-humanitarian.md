@@ -4,7 +4,7 @@ categories: [""]
 tags: [""]
 date: 2020-11-18T19:14:13Z
 description: ""
-title: "Shielding Approach Humanitarian"
+title: "CDC: Isolation of 'High-risk' Individuals, Shielding Approach."
 draft: false
 ---
 

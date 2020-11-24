@@ -1,5 +1,5 @@
 ---
-author: "World Doctors Alliance"
+author: "Be Informed"
 categories: ["Open letters"]
 tags: [""]
 date: 2020-11-24T15:08:42Z
