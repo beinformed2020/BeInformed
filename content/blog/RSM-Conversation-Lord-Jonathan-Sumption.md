@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Other videos"]
+categories: ["Video"]
 tags: ["Covid", "Legal"]
 date: 2020-11-20T18:58:28Z
 description: ""

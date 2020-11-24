@@ -1,6 +1,6 @@
 ---
-author: "World Doctors Alliance"
-categories: ["WDA videos"]
+author: "Be Informed"
+categories: ["Video"]
 tags: ["Elke De Klerk"]
 date: 2020-10-31T10:55:20+01:00
 description: ""

@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Other videos"]
+categories: ["Video"]
 tags: ["Lockdowns"]
 date: 2020-11-10T16:35:14Z
 description: ""

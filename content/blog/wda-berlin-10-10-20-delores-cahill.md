@@ -1,6 +1,6 @@
 ---
 author: "World Doctors Alliance"
-categories: ["WDA videos"]
+categories: ["Video"]
 tags: ["Delores Cahill"]
 date: 2020-10-30T13:55:20+01:00
 description: ""
