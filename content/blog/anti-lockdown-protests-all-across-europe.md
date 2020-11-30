@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Link"]
-tags: ["Covid", "Protests"]
+tags: ["Covid", "Protest"]
 date: 2020-11-20T18:22:25Z
 description: ""
 title: "Anti Lockdown Protests All Across Europe"
