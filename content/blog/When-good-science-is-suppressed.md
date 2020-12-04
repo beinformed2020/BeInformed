@@ -1,6 +1,6 @@
 ---
 author: "Be Informed"
-categories: ["Articles"]
+categories: ["Article"]
 tags: ["Medical", "British Medical Journal"]
 date: 2020-11-14T17:07:43Z
 description: ""
