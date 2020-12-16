@@ -1,7 +1,7 @@
 ---
 author: "Be Informed"
 categories: ["Link"]
-tags: ["Great Rest", "NWO"]
+tags: ["Great Reset", "NWO"]
 date: 2020-11-18T19:03:37Z
 description: ""
 title: "Own Nothing and Be Happy the Great Resets Vision of the Future"
