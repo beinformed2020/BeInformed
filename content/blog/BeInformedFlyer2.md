@@ -2,22 +2,39 @@
 author: "Be Informed"
 categories: ["Download"]
 tags: ["Covid"]
-date: 2020-09-10T19:04:26+01:00
+date: 2021-01-29T16:14:39Z
 description: ""
-title: "Be Informed Flyer 2"
+title: "Be Informed Flyer Latest Printable Download"
 draft: false
 ---
 
 **Public Notice: Covid-19 Leaflet Updates**
 
-[Download here](../ims/INFO-LEAFLET-UPDATE-2-FOR-PRINT-SOLO-PAGES.pdf)
-
-[Download Double sided here](../ims/INFO-LEAFLET-DOUBLE-SIDED-UPDATE-2-FOR-PRINT.pdf)
+[Download here](../ims/BeInformedLeaflet.pdf)  
 
 ## Is the Cure worse than the Cause?  
 
 ![Cafe Closed](../ims/cafe_closed.jpg)
 
-On March 23rd 2020 our country, as directed by the government, entered lockdown in an abrupt turn around of approach to controlling the Covid-19 pandemic, having been advised by the recently resigned Professor Neil Ferguson, an epidemiologist from Imperial College, London.
+LEAFLETS AVAILABLE FOR DISTRIBUTION 
 
-The need for lockdown was based on speculative death figures generated from a computer model which referenced a simulated pandemic exercise called Event 201, a global pandemic exercise. This event took place on October 18th 2019 in New York City and was sponsored by the US John Hopkins Centre for Health Security, the World Economic Forum, and the Bill and Melinda Gates Foundation.
+Dear Brothers and Sisters
+In these times of increasing restrictions and censorship, where fear and bewilderment, and divide and rule is the strategy,
+we have to find effective ways to act, both by not following the ‘guidelines’, reopening, getting back on with our lives, 
+and by educating one another.  
+
+Of course we are all battle worn from the often counter-productive conversations with those caught up in the propaganda,
+so one very effective and less confrontative way is to distribute leaflets through letterboxes.  
+
+We have attached a well researched print ready leaflet that has been designed for letterbox drops, 
+that gives a step by step understanding of some of what has happened and is being orchestrated under the cover of Covid.
+Thousands of these leaflets have been printed and distributed throughout the UK and globally in 2020.   
+
+Independently printing 5000 A5 folded double sided leaflets through Solopress online printing in the UK costs only around £103.
+Please help by printing and distributing these important educational leaflets, and please also share this leaflet download on all relevant Telegram threads.  
+We can turn this around but only if enough of us stand and take action together…..  
+The great awakening is upon us…..  
+All blessings on your journey…..   
+
+
+https://t.me/beinformedlife/594
