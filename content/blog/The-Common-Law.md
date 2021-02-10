@@ -10,7 +10,7 @@ draft: false
 
 ## THE COMMON LAW (Magna Carta, Article 61) - Introductory Webinar Series
 
-**A list of useful videos and channels**
+**A list of useful video and channels**
 
 ### 4 webinars for beginners created by Shem.
 That’s a good start.  

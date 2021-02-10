@@ -8,4 +8,4 @@ title: "Stop 5G Music Videos"
 draft: false
 ---
 
-https://smombiegate.org/stop-5g-music-videos/
+https://smombiegate.org/stop-5g-music-video/

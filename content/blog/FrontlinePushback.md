@@ -8,4 +8,4 @@ title: "Front line Pushback"
 draft: false
 ---
 
-[The Highwire: Dell Bigtree](https://thehighwire.com/videos/coronavirus-the-frontline-pushback/)
+[The Highwire: Dell Bigtree](https://thehighwire.com/video/coronavirus-the-frontline-pushback/)
