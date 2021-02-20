@@ -1,8 +1,8 @@
 ---
-author: "Be Informed"
-categories: ["Video"]
+author: "World Doctors Alliance"
+categories: ["Other videos"]
 tags: [""]
-date: 2021-02-13T13:16:03Z
+date: 2021-02-08T15:26:03Z
 description: ""
 title: "Robert F. Kennedy, Jr. ~ Interviews Dr. David Martin about Fauci, Moderna, Corruption"
 draft: false
