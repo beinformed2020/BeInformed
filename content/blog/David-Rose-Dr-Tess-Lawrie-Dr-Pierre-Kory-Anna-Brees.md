@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Video"]
 tags: [""]
-date: 2021-03-03T12:19:13Z
+date: 2021-03-03T12:01:13Z
 description: ""
 title: "David Rose Dr Tess Lawrie Dr Pierre Kory Anna Brees"
 draft: false
