@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Article"]
 tags: ["Science"]
-date: 2021-02-20T15:09:28Z
+date: 2021-02-22T14:50:28Z
 description: ""
 title: "International Alert Message About Covid 19 United Health Professionals"
 draft: false
