@@ -2,7 +2,7 @@
 author: "Be Informed"
 categories: ["Video"]
 tags: [""]
-date: 2021-03-03T12:01:36Z
+date: 2021-03-03T11:01:36Z
 description: ""
 title: "DEATH of the GERM THEORY 2021"
 draft: false
