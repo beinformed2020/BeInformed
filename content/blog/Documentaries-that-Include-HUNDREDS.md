@@ -8,7 +8,6 @@ title: "Documentaries that Include HUNDREDS of health professionals WARNING The 
 draft: false
 ---
 
-[Forwarded from Q Full Disclosure 17]
 Documentaries that Include HUNDREDS of health professionals WARNING The Public About The Dangers of Vaccination. 
 ⚠️⚠️💉💉💉☠️☠️   Big Pharma: 💰💰💰
 
