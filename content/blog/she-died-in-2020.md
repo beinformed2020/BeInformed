@@ -8,6 +8,6 @@ title: "Brandy Vaughan died in 2020 trying to get this out to the world - hear h
 draft: false
 ---
 
-Please listen to her whole speech and SHARE with everyone.... her last post is at the end.. they killed her and left her next to her son...
+Please listen to her whole speech and SHARE with everyone.
 
 [WATCH ON BITCHUTE](https://www.bitchute.com/video/94EocF5NoWW6/)  
